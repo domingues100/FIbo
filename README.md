@@ -1,1 +1,2 @@
-# Branch com código recursivo
+# Repositório para o exercício de Fibonacci proposto em aula
+
